@@ -1,2 +1,2 @@
-# Trabajo-Health-Care
-Trabajo de las 3 materias hecho en html via VS Code
+#Trabajo Health Care 4.0
+Demo de interfaz clínica hospitalaria con gestión de pacientes, monitoreo de dispositivos IoT y asistente de IA conversacional. Un solo archivo HTML, sin dependencias ni servidor.
