@@ -8,12 +8,11 @@ Demo de interfaz clínica hospitalaria con gestión de pacientes, monitoreo de d
 |---|---|---|
 | `rp@healthcare40.co` | `medico123` | Médico |
 | `dra.rodriguez@healthcare40.co` | `medico123` | Médico |
-| `jvargas@healthcare40.co` | `iot2024` | Técnico IoT |
-| `scastro@healthcare40.co` | `iot2024` | Técnico IoT |
+
 
 ## Uso
 
-Abre `healthcare_demo.html` directamente en el navegador. No requiere instalación.
+Abre `healthcare_pro.html` directamente en el navegador. No requiere instalación.
 
 ## Webhook de IA
 
@@ -25,4 +24,4 @@ const WEBHOOK = 'https://tu-endpoint.com/webhook';
 
 ## Licencia
 
-© 2025 HealthCare 4.0 — Solo para fines de demostración.
+© 2025 HealthCare pro — Solo para fines de demostración.
